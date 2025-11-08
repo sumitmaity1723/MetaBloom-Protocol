@@ -2,7 +2,7 @@
 
 ## 🏗️ Project Description
 **MetaBloom Protocol** is a decentralized staking and growth protocol built on the Ethereum blockchain.  
-It allows users to **stake ETH**, earn **dynamic rewards**, and contribute to the sustainable growth of decentralized finance (DeFi) ecosystems.
+It allows users to **stake ETH**, earn **dynamic rewards**, and contribute to the sustainable growth of decentralized finance (DeFi) ecosystem.
 
 ---
 
